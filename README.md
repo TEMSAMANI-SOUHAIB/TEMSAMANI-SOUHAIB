@@ -4,7 +4,7 @@ Computer-science engineer, dual-degree graduate of **IMT Nord Europe** (École d
 
 I like understanding a system as a whole before working on it — designing an API that holds up, making a data pipeline reliable, or training a model that answers a real business need. That curiosity has taken me toward back-end and front-end development as much as toward data, AI, and cloud environments.
 
-🎓 Graduating September 2026 — open to full-time opportunities
+🎓 Graduating March 2026 — open to full-time opportunities
 🌍 Based in France, open to relocation
 🗣️ Arabic / French (native), English (C1, professional)
 
